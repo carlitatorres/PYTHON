@@ -1,10 +1,10 @@
 num1 = 42 #variable tipo numero entero
-num2 = 2.3 #
-boolean = True
-string = 'Hello World'
-pizza_toppings = ['Pepperoni', 'Sausage', 'Jalepenos', 'Cheese', 'Olives']
-person = {'name': 'John', 'location': 'Salt Lake', 'age': 37, 'is_balding': False}
-fruit = ('blueberry', 'strawberry', 'banana')
+num2 = 2.3 # variable tipo numero decimal 
+boolean = True #variable tipo booleano
+string = 'Hello World' #ariable tipo cadena 
+pizza_toppings = ['Pepperoni', 'Sausage', 'Jalepenos', 'Cheese', 'Olives']# variable tipo lista 
+person = {'name': 'John', 'location': 'Salt Lake', 'age': 37, 'is_balding': False} # variable tipo diccionario
+fruit = ('blueberry', 'strawberry', 'banana') #variable tipo cadena 
 print(type(fruit))
 print(pizza_toppings[1])
 pizza_toppings.append('Mushrooms')
